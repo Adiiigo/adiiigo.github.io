@@ -1,2 +1,2 @@
 # adiiigo.github.io
-This is used to collating the personal projects implmented
+This is used to collate the personal projects implemented
